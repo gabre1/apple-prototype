@@ -1,6 +1,6 @@
 package com.apple.factory;
 
-import com.apple.factory.features.protoype.Iphone;
+import com.apple.factory.features.prototype.Iphone;
 
 public class Factory {
     private static final String msc = null;

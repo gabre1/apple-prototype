@@ -1,4 +1,4 @@
-package com.apple.factory.features.protoype;
+package com.apple.factory.features.prototype;
 
 import com.apple.factory.features.browser.Browser;
 import com.apple.factory.features.caller.Caller;
